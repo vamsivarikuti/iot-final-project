@@ -7,5 +7,5 @@ To run the server, ```cd sever``` and  ```python server.py```
 
 The data will be stored in the sqlite file "adatabase.sqlite3"
 
-Go to the browser and type ```http://localhost:5000```
+Go to the browser and type [http://localhost:5000](http://localhost:5000)
 
